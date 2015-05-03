@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F76CA2EE-0B1C-471F-9994-658E12A6D0B4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>05EBA229D83A0F42734BACECCAE3DC17FC9F282A</key>
+		<string>https://github.com/lawrencelm/etutor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>etutor/etutor.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>05EBA229D83A0F42734BACECCAE3DC17FC9F282A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lawrencelm/etutor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>05EBA229D83A0F42734BACECCAE3DC17FC9F282A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>05EBA229D83A0F42734BACECCAE3DC17FC9F282A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>etutor</string>
+		</dict>
+	</array>
+</dict>
+</plist>
